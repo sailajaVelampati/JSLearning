@@ -16,15 +16,16 @@ bind:
 
 Exception handling:
 
-Modularity:
+Modularity: the separation of a system’s functionality into a set of logically independent pieces — referred as modules or components. Best is highly cohesive and low coupled modules
 
-coupling:
+coupling:measures how dependent different modules are on each other. A module should be as low coupled as possible, meaning that it should have few or no dependencies on other modules.
 
-coherence:
-
-MVC:
+Cohesion: measures what the modules does. Instead of addressing many different concerns, a highly cohesive module focus on a single purpose or responsibility. 
 
 Dependency injection:
+MVC:
+
+
 
 Inversion of Control:
 
