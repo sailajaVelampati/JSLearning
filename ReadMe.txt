@@ -1,6 +1,8 @@
 object: collection of data and functionality.
 
-'new': new keyword always creates the instance of an object 
+new: new keyword always creates the instance of an object 
+
+literals:  is a notation for representing a fixed datatype / value.
 
 dot notation: used to access object properties or methods.
 
@@ -14,7 +16,17 @@ lexcial this:
 
 bind:
 
-Exception handling:
+Exception handling: Used to handle error and let the user know
+
+The try statement lets you test a block of code for errors.
+
+The catch statement lets you handle the error.
+
+The throw statement lets you create custom errors.
+
+The finally statement lets you execute code, after try and catch, regardless of the result.
+
+in angular js  $exceptionHandler service is used.
 
 Modularity: the separation of a system’s functionality into a set of logically independent pieces — referred as modules or components. Best is highly cohesive and low coupled modules
 
@@ -28,6 +40,9 @@ MVC:
 
 
 Inversion of Control:
+
+version control:is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+Eg: SVN, Git
 
 functions and this Quiz: copy all the functions form the MSDN examples
 
